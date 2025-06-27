@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @JaviSanchezRamos
-- 👀 I’m interested in programming, especially in the field of Artificial Intelligence (AI) and multiplatform application development.
-- 🌱 I’m currently learning C++ and Java as part of my studies in the BTEC 5 Cross-Platform Application Development
-- 👥 I’m looking to collaborate on AI-related projects, open-source development, and innovative applications that solve real-world problems.
-- 📫 How to reach me: jsanram16@hotmail.com
-- 👨🏻‍💻 Pronouns: he/him
-- ⚡ Fun fact: I’m 21 years old and love exploring how AI can revolutionize industries. When I’m not coding, I enjoy gaming, learning about the latest tech trends, and working out at the gym!
+👋 Hi, I’m @JaviSanchezRamos
+👀 I’m passionate about programming, especially in Artificial Intelligence (AI), machine learning, web development, and multiplatform application development.
+🌱 I’m currently studying for a Higher Technician Diploma in Cross-Platform Application Development (DAM) at La Salle Girona, where I work with Java, C++, C#, Python, HTML/CSS, JavaScript, and SQL.
+👥 I’m eager to collaborate on projects involving AI, web and application development, and innovative solutions with real impact.
+📫 You can reach me at: javiersanchezramos2003@gmail.com
+👨🏻‍💻 Pronouns: he/him
+⚡ Fun fact: I’m 22 years old and fascinated by how AI can transform industries. When I’m not coding, I enjoy gaming, exploring new tech trends, and staying active at the gym!
 
 <!---
 JaviSanchezRamos/JaviSanchezRamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-BTEC 5
